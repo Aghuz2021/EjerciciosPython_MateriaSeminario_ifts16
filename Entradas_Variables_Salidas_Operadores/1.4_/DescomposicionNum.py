@@ -1,0 +1,5 @@
+numReal = float(input("Ingresar Numero: "))
+print("Los resultados para",numReal,"son: ")
+entera =int(numReal)
+Decimal =float(numReal)
+print("Parte entera:",entera,"\nParte Decimal:",Decimal)

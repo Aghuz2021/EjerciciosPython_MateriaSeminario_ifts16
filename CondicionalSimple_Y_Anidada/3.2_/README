@@ -1,0 +1,19 @@
+Desarrollar un Funcion que reciba un numero real como parametro y que retorne un msj (si el numero es "Positivo","negativo","cero")
+
+Adicionalmente debera desarrollar otra funcion que retorne orto msj, Si el numero recibido es "entero natural",
+"entero","real"
+
+El programa main debera efectuar el ingresp de un numero real e imprimir por pantalla los mj de retornados por las funciones
+
+
+Ingrese un numero: 13.4
+El  numero es positivo y real.
+
+Ingrese un numero: 0
+El numero es cero y entero
+
+Ingrese un numero: -4
+El numero es negativo y entero
+
+Ingrese un numero: 7
+El numero es positivo y entero natural

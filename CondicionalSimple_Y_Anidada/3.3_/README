@@ -1,0 +1,17 @@
+Desarrollar una funcion BOOLEANA recibe como parametros tres numeros enteros 
+positivos que representan:
+DIA
+MES
+ANIO
+Esta funcion debe retornar:
+TRUE (sI LA FECHA ES VALIDA)
+  DE LO CONTRARIO
+FALSE
+
+Desde el main debe:
+Ingresar el dia:
+Ingresar el mes:
+Ingresar el año:
+
+invocar a la funcion booleana:
+Mostrar por pantalla un msj indicado si "la fecha es correcta"

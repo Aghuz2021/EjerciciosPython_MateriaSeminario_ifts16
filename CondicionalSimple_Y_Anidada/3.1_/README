@@ -1,0 +1,13 @@
+3.1.
+Desarrollar la funcion OPERAR que reciba como parametros dos numeros y un string con alguno de los seis caracteres (+,-,*,/,//,**)
+y retorne el resultado de la opeperacion.
+
+Desde el programa principal el usuario ingresara los datos que seran pasados como parametros a la funcion y mostrara el resultado retornado por la misma
+
+EJEMPLO:
+
+Ingrese el primer numero: 8
+Ingrese el segundo numero: 2
+Ingese la operacion(+,-,*,/,//,**): +
+
+8+2=10
